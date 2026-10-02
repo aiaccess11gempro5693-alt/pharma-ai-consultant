@@ -1,5 +1,7 @@
 # Вопросы к Олегу
 
+**Ответы получены 02.10.2026** — [docs/sources/Ответы_Олега_на_вопросы.md](../sources/Ответы_Олега_на_вопросы.md). Что из них следует — в [open-questions.md](open-questions.md).
+
 Собраны из [open-questions.md](open-questions.md) — пункты, где нужен ответ Олега. Что уже решено — в [decisions.md](decisions.md).
 
 ## Концепция
